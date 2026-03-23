@@ -12,6 +12,7 @@ OPENAI_API_KEY = "sk-xxxxxxxxxx"
 client = OpenAI(api_key=OPENAI_API_KEY)
 
 MODEL_NAME = 'intfloat/multilingual-e5-base'
+
 DB_CONFIG = {
     "host": "aitest",
     "database": "edb",
