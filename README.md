@@ -26,6 +26,7 @@ git clone https://github.com/unixfree/rgb_semantic_search.git
 
 2. 수행
 ```
+cd rgb_semantic_search
 streamlit run app.py
 ```
 
