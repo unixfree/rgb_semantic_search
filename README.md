@@ -16,7 +16,7 @@ source venv/bin/activate
 # 버전 확인 (이제 python만 쳐도 3.12로 실행됩니다)
 python --version
 
-pip install google-generativeai streamlit pandas numpy sentence-transformers psycopg2-binary openai
+pip install google-generativeai streamlit pandas numpy sentence-transformers psycopg2-binary openai torchvision
 ```
 
 1. git clone
